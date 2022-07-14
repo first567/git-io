@@ -17,4 +17,6 @@ p: 粘贴一行
 tail -n 1 文件名 ：可以查看第一行数据
 ll -a  查看该文件夹所有文件
 cat 文件名：查看文件
+git reflog :查看 git 记录
+git log ：提交日志
 
