@@ -24,4 +24,4 @@ git reset --hard 版本号 ：回溯版本或者前进
 git remote -v :查看别名
 git remote add 别名 远程.git链接 : 链接远程仓库
 git push 别名 推送分支名  :推送
-
+111111111111111111111
